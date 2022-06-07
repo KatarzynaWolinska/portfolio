@@ -13,11 +13,11 @@ Niepełnosprawność = praca zdalna. Umiejętności, które dzięki temu zdobył
 * SCRUM
 ## CERTIFICATES
 Szkolenie Indywidualne tester manualny 07.06.2022
-Software Development Academy - Tester programowania 25.05.2022
+Software Development Academy - Tester oprogramowania 25.05.2022
 ## COURSES
 * Szkolenie indywidualne tester manualny - Waldemar Szafraniec
-* SDA Teser oprogramowania
-* Bootcamp esterski Bugfigthers
+* SDA Tester oprogramowania
+* Bootcamp testerski Bugfigthers
 ## RECOMENDED BLOGS
 * wyszkolewas.com.pl
 * testerzy.pl
@@ -35,4 +35,4 @@ Software Development Academy - Tester programowania 25.05.2022
 ## MY REPORT
 ## MY REPORT FOR 
 * [Report PDF](https://drive.google.com/file/d/1eoRs8MxNxIcWU4ldjs3nK_hHwcEkImMT/view?usp=sharing)
-* [Report Excell](https://docs.google.com/spreadsheets/d/1q-p10_PosoLe0z-j7sFQKC9YYeKLUFFA/edit?usp=sharing&ouid=116302763390254948940&rtpof=true&sd=true)
+* [Report Excel](https://docs.google.com/spreadsheets/d/1q-p10_PosoLe0z-j7sFQKC9YYeKLUFFA/edit?usp=sharing&ouid=116302763390254948940&rtpof=true&sd=true)
