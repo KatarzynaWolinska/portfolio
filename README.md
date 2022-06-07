@@ -1,6 +1,6 @@
 # PORTFOLIO
 ## ABOUT ME
-I am young student with many technical skills. I am very motivated to become QA
+Niepełnosprawność = praca zdalna. Umiejętności, które dzięki temu zdobyłam to: perfekcyjna organizacja, bardzo dobra komunikatywność, skrupulatność, asertywność, empatia, cierpliwość, samodyscyplina.
 ## TOOLS
 * Jira
 * TestLink
