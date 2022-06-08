@@ -34,5 +34,5 @@ Software Development Academy - Tester oprogramowania 25.05.2022
 ## MY BUGS FOR 
 ## MY REPORT
 ## MY REPORT FOR 
-* [Report PDF](https://drive.google.com/file/d/1eoRs8MxNxIcWU4ldjs3nK_hHwcEkImMT/view?usp=sharing)
+* [Report PDF](https://drive.google.com/file/d/1MHkoFkeqJCa_yAO4BAVgjPHUoS-TXhV9/view?usp=sharing)
 * [Report Excel](https://docs.google.com/spreadsheets/d/1q-p10_PosoLe0z-j7sFQKC9YYeKLUFFA/edit?usp=sharing&ouid=116302763390254948940&rtpof=true&sd=true)
