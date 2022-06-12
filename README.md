@@ -1,6 +1,6 @@
 # PORTFOLIO
 ## ABOUT ME
-Niepełnosprawność = praca zdalna. Umiejętności, które dzięki temu zdobyłam to: perfekcyjna organizacja, bardzo dobra komunikatywność, skrupulatność, asertywność, empatia, cierpliwość, samodyscyplina.
+Mam duże predyspozycje, ogromne chęci i wielki zapał. Zdobywam wiedzę z rozsądkiem, ucze się od najlepszych. TesterKaKasia Start!
 ## TOOLS
 * Jira
 * TestLink
