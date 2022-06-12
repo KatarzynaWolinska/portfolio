@@ -27,12 +27,9 @@ Software Development Academy - Tester oprogramowania 25.05.2022
 ## GROUPS ON FACEBOOK
 * Tester oprogramowania - wsparcie na starcie
 * Testowanie oprogramowania
-## MY TEST CASE EXAMPLES
-## MY TEST CASE EXAMPLES FOR 
+## MY TEST CASE EXAMPLES 
 * [Test cases](https://drive.google.com/file/d/1XBs5qg5QSso0uUhfooqE-UchAe42xh2G/view?usp=sharing)
-## MY BUGS
-## MY BUGS FOR 
+## MY BUGS 
 ## MY REPORT
-## MY REPORT FOR 
 * [Report PDF](https://drive.google.com/file/d/1MHkoFkeqJCa_yAO4BAVgjPHUoS-TXhV9/view?usp=sharing)
 * [Report Excel](https://docs.google.com/spreadsheets/d/1q-p10_PosoLe0z-j7sFQKC9YYeKLUFFA/edit?usp=sharing&ouid=116302763390254948940&rtpof=true&sd=true)
