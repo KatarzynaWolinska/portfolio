@@ -29,7 +29,7 @@ Software Development Academy - Tester oprogramowania 25.05.2022
 * Testowanie oprogramowania
 ## SQL 
 * [Zadania SQL](https://drive.google.com/file/d/1nQaVQ7Nwzo6-9x4WmboCLUIrV7_wvOqh/view?usp=sharing)
-## MY TEST CASE EXAMPLES 
+## MY TEST CASE
 * [Test cases](https://drive.google.com/file/d/1XBs5qg5QSso0uUhfooqE-UchAe42xh2G/view?usp=sharing)
 ## MY BUGS 
 ## MY REPORT
