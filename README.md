@@ -1,6 +1,6 @@
 # PORTFOLIO
 ## ABOUT ME
-Mam duże predyspozycje, ogromne chęci i wielki zapał. Zdobywam wiedzę z rozsądkiem, ucze się od najlepszych. TesterKaKasia Start!
+Mam ogromne chęci, coraz więkzą wiedzę, duże predyspozycje, wielki zapał. Zdobywam wiedzę z rozsądkiem, ucze się od najlepszych. TesterKaKasia Start!
 ## TOOLS
 * Jira
 * TestLink
