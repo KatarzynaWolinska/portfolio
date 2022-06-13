@@ -18,7 +18,7 @@ Software Development Academy - Tester oprogramowania 25.05.2022
 ## COURSES
 * Szkolenie indywidualne tester manualny - Waldemar Szafraniec
 * SDA Tester oprogramowania
-* Bootcamp testerski Bugfigthers
+* Bootcamp testerski Bugfigthers - Justyna Kałek
 ## RECOMENDED BLOGS
 * wyszkolewas.com.pl
 * testerzy.pl
