@@ -22,7 +22,6 @@ Software Development Academy - Tester oprogramowania 25.05.2022
 * wyszkolewas.com.pl
 * testerzy.pl
 * testuj.pl
-* testITka
 * remigiuszbednarczyk.pl
 ## GROUPS ON FACEBOOK
 * Tester oprogramowania - wsparcie na starcie
