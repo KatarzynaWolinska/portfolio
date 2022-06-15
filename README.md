@@ -1,32 +1,41 @@
 # PORTFOLIO
-## ABOUT ME
+## O MNIE
 Mam ogromne chęci, coraz większą wiedzę, duże predyspozycje, wielki zapał. Zdobywam wiedzę z rozsądkiem, uczę się od najlepszych. 
 TesterKaKasia Start!
-## TOOLS
+## NARZĘDZIA
 * Jira
 * TestLink
 * GitHub
-## TECH SKIILS
-* Software testing
-* Creating test cases
-* Reporting bugs
+## UMIEJĘTNOŚCI TECHNICZNE
+* Testowanie oprogramowania
+* Tworzenie prypadków testowych
+* Zgłaszanie błędów
 * SQL
 * SCRUM
-## CERTIFICATES
-Szkolenie Indywidualne tester manualny 07.06.2022
-Software Development Academy - Tester oprogramowania 25.05.2022
-## COURSES
+## WYJSZTAŁCENIE
 * Szkolenie indywidualne tester manualny - Waldemar Szafraniec
 * SDA Tester oprogramowania
 * Bootcamp testerski Bugfigthers - Justyna Kałek
-## RECOMENDED BLOGS
+## KSIĄŻKI
+* Certyfikowany tester ISTQB - A.Roman, L.Stapp
+* Zawód Tester - R.Smilgin
+* Tester orogramowania - K.Zmitrowicz
+## BLOGI
 * wyszkolewas.com.pl
 * testerzy.pl
 * testuj.pl
 * remigiuszbednarczyk.pl
-## GROUPS ON FACEBOOK
+## GRUPY NA FACEBOOK
 * Tester oprogramowania - wsparcie na starcie
 * Testowanie oprogramowania
+* Girls Who Tests
+## WEBINARY
+* Szkoła testera - podstawy testowania
+* ABC Testowania
+* Proces testowani od kuchni
+* Jak uczyć się testowania, to z najlepszymi
+* Testowanie aplikacji - jak robić to dobrze?
+* O juniora do eksperta
 ## SQL 
 * [Tasks SQL](https://drive.google.com/file/d/1nQaVQ7Nwzo6-9x4WmboCLUIrV7_wvOqh/view?usp=sharing)
 ## MY TEST CASE
