@@ -41,8 +41,8 @@ TesterKaKasia Start!
 ## SQL 
 * [Zadania SQL](https://drive.google.com/file/d/1nQaVQ7Nwzo6-9x4WmboCLUIrV7_wvOqh/view?usp=sharing)
 ## MOJE PRZYPADKI TESTOWE
-* 1. Sklep "Pudel i Ja"
-** [a) Rejestracja nowego użytkownika](https://drive.google.com/file/d/1xXvP1WjiXsM9JKP12CGocQ_jEThdzhTI/view?usp=sharing)
+* Sklep "Pudel i Ja"
+  * [a) Rejestracja nowego użytkownika](https://drive.google.com/file/d/1xXvP1WjiXsM9JKP12CGocQ_jEThdzhTI/view?usp=sharing)
 * [b) Logowanie zarejestrowanego użytkownika](https://drive.google.com/file/d/1QSaT9BJZjwGG8qLuGyI8cNgAGHqi1ckT/view?usp=sharing)
 * [c) Sklep](https://drive.google.com/file/d/13ZNjdofQbKVd0s5LpkCAKF5kcSzDCJc5/view?usp=sharing)
 ## MOJE ZGŁOSZONE BŁĘDY 
