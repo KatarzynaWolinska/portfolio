@@ -6,6 +6,7 @@ TesterKaKasia Start!
 * Jira
 * TestLink
 * GitHub
+* TestRail
 ## UMIEJĘTNOŚCI TECHNICZNE
 * Testowanie oprogramowania
 * Tworzenie prypadków testowych
