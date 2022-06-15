@@ -3,10 +3,10 @@
 Mam ogromne chęci, coraz większą wiedzę, duże predyspozycje, wielki zapał. Zdobywam wiedzę z rozsądkiem, uczę się od najlepszych. 
 TesterKaKasia Start!
 ## NARZĘDZIA
-* do zarządzania testowaniem: TestLink, TestRail, Jira
-* poznane metody zarządzania: SCRUM
-* do tworzenia repozytorium: GitHub
-* język programowania: SQL
+* Do zarządzania testowaniem: TestLink, TestRail, Jira
+* Poznane metody zarządzania: SCRUM
+* Do tworzenia repozytorium: GitHub
+* Język programowania: SQL
 ## UMIEJĘTNOŚCI TECHNICZNE
 * Testowanie oprogramowania
 * Tworzenie przypadków testowych
