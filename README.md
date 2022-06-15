@@ -21,6 +21,7 @@ TesterKaKasia Start!
 * Certyfikowany tester ISTQB - A.Roman, L.Stapp
 * Zawód Tester - R.Smilgin
 * Tester orogramowania - K.Zmitrowicz
+* Testowanie oprogramowania - R.Pawlak
 ## BLOGI
 * wyszkolewas.com.pl
 * testerzy.pl
