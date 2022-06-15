@@ -12,7 +12,7 @@ TesterKaKasia Start!
 * Zgłaszanie błędów
 * SQL
 * SCRUM
-## WYJSZTAŁCENIE
+## WYKSZTAŁCENIE
 * Szkolenie indywidualne tester manualny - Waldemar Szafraniec
 * SDA Tester oprogramowania
 * Bootcamp testerski Bugfigthers - Justyna Kałek
@@ -38,12 +38,12 @@ TesterKaKasia Start!
 * O juniora do eksperta
 ## SQL 
 * [Tasks SQL](https://drive.google.com/file/d/1nQaVQ7Nwzo6-9x4WmboCLUIrV7_wvOqh/view?usp=sharing)
-## MY TEST CASE
+## MOJE PRZYPADKI TESTOWE
 * [Test cases](https://drive.google.com/file/d/1XBs5qg5QSso0uUhfooqE-UchAe42xh2G/view?usp=sharing)
-## MY BUGS 
+## MOJE ZGŁOSZONE BŁĘDY 
 * [Galeria Północna - incorrect translation](https://drive.google.com/file/d/1u3IUFwGWVHbAXNIjaLb69ZT28O2-Cjn7/view?usp=sharing)
 * [Windows 11 PRO - wrong letter](https://drive.google.com/file/d/1wsPIOFo2weKghdIGxWxv-MJNY3VAYACs/view?usp=sharing)
 * [App Vinted - wrong location on maps](https://drive.google.com/file/d/1_9vWTo1SuYrsa6wW1GU_4rL3H2Akdwqj/view?usp=sharing)
-## MY REPORT
+## MOJE RAPORTY
 * [Report PDF](https://drive.google.com/file/d/1MHkoFkeqJCa_yAO4BAVgjPHUoS-TXhV9/view?usp=sharing)
 * [Report Excel](https://docs.google.com/spreadsheets/d/1q-p10_PosoLe0z-j7sFQKC9YYeKLUFFA/edit?usp=sharing&ouid=116302763390254948940&rtpof=true&sd=true)
