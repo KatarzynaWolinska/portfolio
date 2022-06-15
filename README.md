@@ -36,9 +36,9 @@ TesterKaKasia Start!
 * Proces testowani od kuchni
 * Jak uczyć się testowania, to z najlepszymi
 * Testowanie aplikacji - jak robić to dobrze?
-* O juniora do eksperta
+* Od juniora do eksperta
 ## SQL 
-* [Tasks SQL](https://drive.google.com/file/d/1nQaVQ7Nwzo6-9x4WmboCLUIrV7_wvOqh/view?usp=sharing)
+* [Zadania SQL](https://drive.google.com/file/d/1nQaVQ7Nwzo6-9x4WmboCLUIrV7_wvOqh/view?usp=sharing)
 ## MOJE PRZYPADKI TESTOWE
 * [Test cases](https://drive.google.com/file/d/1XBs5qg5QSso0uUhfooqE-UchAe42xh2G/view?usp=sharing)
 ## MOJE ZGŁOSZONE BŁĘDY 
