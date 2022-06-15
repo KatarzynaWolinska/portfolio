@@ -13,7 +13,7 @@ TesterKaKasia Start!
 * Zgłaszanie błędów
 * Pisanie scenariuszy
 ## WYKSZTAŁCENIE
-* Szkolenie indywidualne tester manualny - Waldemar Szafraniec
+* Szkolenie indywidualne Tester manualny - Waldemar Szafraniec
 * SDA Tester oprogramowania
 * Bootcamp testerski Bugfigthers - Justyna Kałek
 ## KSIĄŻKI TECHNICZNE
