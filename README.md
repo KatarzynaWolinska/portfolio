@@ -38,14 +38,14 @@ TesterKaKasia Start!
 * Jak uczyć się testowania, to z najlepszymi!
 * Testowanie aplikacji - jak robić to dobrze?
 * Od juniora do eksperta
-## #W PRAKTYCE#
+## W PRAKTYCE:
 ## SQL 
 * [Zadania SQL](https://drive.google.com/file/d/1nQaVQ7Nwzo6-9x4WmboCLUIrV7_wvOqh/view?usp=sharing)
 ## MOJE PRZYPADKI TESTOWE
-* Sklep "Pudel i Ja"
+* Sklep "Pudel i Ja":
   * [a) Rejestracja nowego użytkownika](https://drive.google.com/file/d/1xXvP1WjiXsM9JKP12CGocQ_jEThdzhTI/view?usp=sharing)
-* [b) Logowanie zarejestrowanego użytkownika](https://drive.google.com/file/d/1QSaT9BJZjwGG8qLuGyI8cNgAGHqi1ckT/view?usp=sharing)
-* [c) Sklep](https://drive.google.com/file/d/13ZNjdofQbKVd0s5LpkCAKF5kcSzDCJc5/view?usp=sharing)
+  * [b) Logowanie zarejestrowanego użytkownika](https://drive.google.com/file/d/1QSaT9BJZjwGG8qLuGyI8cNgAGHqi1ckT/view?usp=sharing)
+  * [c) Sklep](https://drive.google.com/file/d/13ZNjdofQbKVd0s5LpkCAKF5kcSzDCJc5/view?usp=sharing)
 ## MOJE ZGŁOSZENIA BŁĘDÓW 
 * [Galeria Północna - niepełne tłumaczenie](https://drive.google.com/file/d/1u3IUFwGWVHbAXNIjaLb69ZT28O2-Cjn7/view?usp=sharing)
 * [Windows 11 PRO - błąd literowy](https://drive.google.com/file/d/1wsPIOFo2weKghdIGxWxv-MJNY3VAYACs/view?usp=sharing)
