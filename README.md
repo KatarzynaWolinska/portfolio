@@ -1,6 +1,6 @@
 # PORTFOLIO
 ## O MNIE
-Mam ogromne chęci, coraz większą wiedzę, duże predyspozycje, wielki zapał. Zdobywam wiedzę z rozsądkiem, uczę się od najlepszych. 
+Mam ogromne chęci, coraz większą wiedzę, duże predyspozycje, wielki zapał. Zdobywam wiedzę z rozsądkiem, uczę się od najlepszych. Choroba nauczyła mnie cerpliwości, szkolenie pów da niewidomych nauczyło mnie analitycznego myślenia. Otwartość, uśmiech ułatwia szybkie i  miłe komunikowanie się z innymi. 
 TesterKaKasia to ja - Zaczynamy!
 ## NARZĘDZIA
 * Do zarządzania testowaniem: TestLink, TestRail, Jira
