@@ -1,7 +1,7 @@
 # PORTFOLIO
 ## O MNIE
 Mam ogromne chęci, coraz większą wiedzę, duże predyspozycje, wielki zapał. Zdobywam wiedzę z rozsądkiem, uczę się od najlepszych. 
-TesterKaKasia Start!
+TesterKaKasia to ja - Zaczynamy!
 ## NARZĘDZIA
 * Do zarządzania testowaniem: TestLink, TestRail, Jira
 * Poznane metody zarządzania: SCRUM
@@ -12,10 +12,12 @@ TesterKaKasia Start!
 * Tworzenie przypadków testowych
 * Zgłaszanie błędów
 * Pisanie scenariuszy
+* Sporządzanie raportów cząstkowych i pełnych
 ## WYKSZTAŁCENIE
 * Szkolenie indywidualne Tester manualny - Waldemar Szafraniec
 * SDA Tester oprogramowania
 * Bootcamp testerski Bugfigthers - Justyna Kałek
+* CyberPlac - Podstaw testowania w IT
 ## KSIĄŻKI TECHNICZNE
 * Certyfikowany tester ISTQB - A.Roman, L.Stapp
 * Zawód Tester - R.Smilgin
