@@ -1,6 +1,6 @@
 # PORTFOLIO
 ## O MNIE
-Mam ogromne chęci, coraz większą wiedzę, duże predyspozycje, wielki zapał. Zdobywam wiedzę z rozsądkiem, uczę się od najlepszych. Choroba nauczyła mnie cerpliwości, szkolenie pów da niewidomych nauczyło mnie analitycznego myślenia. Otwartość, uśmiech ułatwia szybkie i  miłe komunikowanie się z innymi. 
+Mam motywację, coraz większą wiedzę, duże predyspozycje, ogromne chęci. Zdobywam wiedzę z rozsądkiem, uczę się od najlepszych. Choroba sprawiła, że wiem co to  cierpliwość, szkolenie psów dla osób niewidomych nauczyło mnie analitycznego myślenia, odpowiedzialności. Otwartość, uśmiech ułatwia mi szybkie i  miłe komunikowanie się z innymi. To idealny zestaw cech przyszłej testerki.
 TesterKaKasia to ja - Zaczynamy!
 ## NARZĘDZIA
 * Do zarządzania testowaniem: TestLink, TestRail, Jira
