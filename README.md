@@ -52,7 +52,7 @@ TesterKaKasia to ja - Zaczynamy!
 * [Galeria Północna - niepełne tłumaczenie](https://drive.google.com/file/d/1u3IUFwGWVHbAXNIjaLb69ZT28O2-Cjn7/view?usp=sharing)
 * [Windows 11 PRO - błąd literowy](https://drive.google.com/file/d/1wsPIOFo2weKghdIGxWxv-MJNY3VAYACs/view?usp=sharing)
 * [Aplikacja Vinted - błędna lokalizacja mapy](https://drive.google.com/file/d/1_9vWTo1SuYrsa6wW1GU_4rL3H2Akdwqj/view?usp=sharing)
-* [Ergo Hestia - brak możliwości wyłączenia okna z czatem](https://drive.google.com/file/d/1JPjQMtvhOP9JQQGegtGYfbZAP0_v0PaN/view?usp=sharing)
+* [Ergo Hestia - brak możliwości wyłączenia okna z czatem](https://drive.google.com/file/d/1nz_W7iv8_CLPINr8DfptOXnj3ZdXSKqK/view?usp=sharing)
 ## MOJE RAPORTY
 * [Raport PDF](https://drive.google.com/file/d/1MHkoFkeqJCa_yAO4BAVgjPHUoS-TXhV9/view?usp=sharing)
 * [Raport Excel](https://docs.google.com/spreadsheets/d/1q-p10_PosoLe0z-j7sFQKC9YYeKLUFFA/edit?usp=sharing&ouid=116302763390254948940&rtpof=true&sd=true)
